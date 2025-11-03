@@ -1,4 +1,9 @@
-/* styles/style.css */
+.body {
+  width: 1100px;
+  margin: 0 auto;
+  font-family: Raleway, sans-serif;
+  font-size: 18px;
+}
 
 .header {
   display: grid;
@@ -307,35 +312,4 @@
 .footer__social-icon {
   width: 48px;
   height: 48px;
-}
-
-/* Global styles */
-* {
-  box-sizing: border-box;
-}
-
-body {
-  width: 1100px;
-  margin: 0 auto;
-  font-family: Raleway, sans-serif;
-  font-size: 18px;
-}
-
-h1, h2, h3, h4, h5, h6, p, ul, ol, li, blockquote {
-  margin: 0;
-  padding: 0;
-}
-
-a {
-  color: inherit;
-  text-underline-position: under;
-}
-
-img {
-  width: 100%;
-}
-
-button {
-  font: inherit;
-  cursor: pointer;
 }
