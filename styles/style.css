@@ -264,6 +264,8 @@
 .footer__social-list {
   display: flex;
   gap: 48px;
+  justify-self: end;
+  list-style: none;
 }
 
 .footer__social-icon {
