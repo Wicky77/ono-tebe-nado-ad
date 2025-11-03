@@ -141,7 +141,7 @@ body {
   cursor: pointer;
   min-width: 257px;
 }
-/*картоски с лотами*/
+
 .lots {
   padding: 0 50px;
   margin: 180px 0;
@@ -265,12 +265,11 @@ body {
   margin: 0;
 }
 
-/* вроде тут что-то пересмотреть, поехало*/
 .footer {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   align-items: start;
-  padding: 0 30px 90px;
+  padding: 0 50px 90px;
   margin: 0;
 }
 
