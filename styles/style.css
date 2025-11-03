@@ -71,19 +71,22 @@
   font-weight: 700;
   line-height: 1.15;
   text-transform: uppercase;
+  margin-bottom: 135px;
 }
 
 .aligned-text {
   display: block;
+  letter-spacing: 0.3em;
 }
 
 .aligned-text_center {
   text-align: center;
-  margin-right: 60px;
+  padding-left: 60px;
 }
 
 .aligned-text_right {
   text-align: right;
+  padding-right: 30px;
 }
 
 .letter-spacing-extended {
@@ -97,16 +100,15 @@
 .cover__description {
   position: relative;
   display: flex;
-  justify-content: flex-end;
+  justify-content: space-between;
   align-items: center;
-  gap: 78px;
-  margin-top: 135px;
 }
 
 .cover__description-text {
   font-size: 22px;
   text-transform: uppercase;
   word-spacing: 18px;
+  margin-left: 28px;
 }
 
 .bet-button {
@@ -116,6 +118,7 @@
   color: white;
   font-size: 22px;
   text-transform: uppercase;
+  margin-right: 50px;
 }
 
 .lots {
