@@ -33,11 +33,11 @@
 .header__logo-image {
   padding: 7px;
 }
-
+/*кудт уехал*/
 .address {
   width: 290px;
   font-family: "Raleway", sans-serif;
-  font-weight: 400;
+  font-weight: 100;
   font-size: 18px;
   font-style: normal;
   line-height: 24.3px;
@@ -126,7 +126,7 @@
   opacity: 0.3;
   scale: 1;
 }
-
+/*?????*/
 .overlay {
   position: absolute;
   inset: 0;
@@ -208,7 +208,7 @@
 }
 
 .card_type_book {
-  background: url(../images/card-lot-02.jpg) bottom/cover no-repeat;
+  background: url(./images/card-lot-02.jpg) bottom/cover no-repeat;
 }
 
 .card_type_picture {
